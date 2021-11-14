@@ -1,0 +1,19 @@
+.instagram-swiper-container {
+  margin-right: 0;
+}
+
+.instagram-swiper-slide {
+  width: auto;
+}
+
+@media screen and (min-width: 1024px) {
+  .instagram-swiper-container {
+    margin-right: -504px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .instagram-swiper-container {
+    margin-right: -136px;
+  }
+}

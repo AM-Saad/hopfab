@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Label Experience",
+    "content": "Nous évoluons main dans la main avec Hopfab !<br>C’est l’assurance d’avoir des artisans de qualité, fiables et professionnels, d’avoir un accompagnement du projet et un soutien. Hopfab nous apporte de la sérénité. Tout est cadré et organisé. Cela nous rassure et rassure le client final.",
+    "authorName": "Audrey et Sophie",
+    "authorFunction": "cofondatrices chez Label Experience"
+  },
+  {
+    "name": "Agence ID",
+    "content": "Hopfab a une matériauthèque très complète, des matériaux travaillés et utilisés par bon nombre d’artisans référencés.<br>Ces pépites nous apportent à nous, décorateurs, des possibilités variées et souvent uniques, le luxe du sur mesure et ce, grâce à tous ces experts de la matière. Hopfab est une source inépuisable d’inspiration au quotidien !",
+    "authorName": "Virginie Grimaud",
+    "authorFunction": "agence ID Alice"
+  },
+  {
+    "name": "Hélène Paoli",
+    "content": "Nous travaillons sur chacun de nos projets d'agencements avec Hopfab depuis que nous les avons rencontrés. Une très grande qualité d'écoute et suivi des projets, sans oublier bien entendu ce qui fait leur force, le carnet d'adresse incroyable. Merci Hopfab !",
+    "authorName": "Hélène Paoli",
+    "authorFunction": "architecte"
+  },
+  {
+    "name": "Etienne Emptoz",
+    "content": "Hopfab c’est l’assurance de dénicher les artisans qui correspondent le mieux au projet, qu’il s’agisse de réalisation traditionnelle ou de procédés plus exceptionnels.<br>Leur mise en concurrence est la garantie de présenter des prix justes aux clients, en regard des qualités de finitions exigées.<br>Pour un architecte, « tester » beaucoup d’artisans différents prend du temps, Hopfab, qui présente un grand nombre de collaborations apporte cette visibilité et ce retour d’expérience sur les entreprises du réseau. Les situations sur les chantiers sont parfois plus compliquées que prévues, et Hopfab permet d'être un appuis supplémentaire pour délier des situations bloquantes. Merci Hopfab !",
+    "authorName": "Etienne Emptoz",
+    "authorFunction": "architecte"
+  }
+]

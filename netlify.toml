@@ -1,0 +1,660 @@
+[[redirects]]
+  from = "/produits/*"
+  to = "/realisations"
+
+[[redirects]]
+  from = "/reseau-artisans"
+  to = "/artisans"
+
+[[redirects]]
+  from = "/label-artisan"
+  to = "/artisans"
+
+[[redirects]]
+  from = "/communaute-artisans"
+  to = "/artisans"
+
+[[redirects]]
+  from = "/trouver-un-artisan"
+  to = "/artisans"
+
+[[redirects]]
+  # TODO: Créer la page
+  from = "/service-sur-mesure"
+  to = "/"
+
+[[redirects]]
+  # TODO: Créer la page
+  from = "/service-architectes"
+  to = "/"
+
+[[redirects]]
+  # TODO: Créer la page
+  from = "/service-artisans"
+  to = "/"
+
+[[redirects]]
+  from = "/contactez-nous"
+  to = "/contact"
+
+[[redirects]]
+  from = "/nous-contacter"
+  to = "/contact"
+
+[[redirects]]
+  from = "/blog"
+  query = {categorie = ":categorie"}
+  to = "/blog/categorie/:categorie"
+  force = true
+
+[[redirects]]
+  from = "/materiautheque"
+  query = {categorie = ":categorie"}
+  to = "/materiautheque/type-de-materiau/:categorie"
+  force = true
+
+[[redirects]]
+  from = "/realisations"
+  query = {type = ":type"}
+  to = "/realisations/type-de-projet/:type"
+  force = true
+
+[[redirects]]
+from = "/materiautheque/textile-de-beton-be76-1"
+to = "/materiautheque/textile-de-beton-23a-be1"
+
+[[redirects]]
+from = "/materiautheque/textile-de-beton-be76-2"
+to = "/materiautheque/textile-de-beton-23a-be2"
+
+[[redirects]]
+from = "/materiautheque/beton-fibre-be76-5"
+to = "/materiautheque/beton-fibre-23a-be5"
+
+[[redirects]]
+from = "/materiautheque/beton-fibre-be76-6"
+to = "/materiautheque/beton-fibre-23a-be6"
+
+[[redirects]]
+from = "/materiautheque/beton-fibre-be76-7"
+to = "/materiautheque/beton-fibre-23a-be7"
+
+[[redirects]]
+from = "/materiautheque/beton-fibre-facon-modelage-be76-8"
+to = "/materiautheque/beton-fibre-facon-modelage-23a-be8"
+
+[[redirects]]
+from = "/materiautheque/beton-fibre-be76-9"
+to = "/materiautheque/beton-fibre-23a-be9"
+
+[[redirects]]
+from = "/materiautheque/multiligne-bouleau-bo103-1"
+to = "/materiautheque/multiligne-bouleau-28a-bo1"
+
+[[redirects]]
+from = "/materiautheque/charme-massif-assemblage-bois-debout-bo166-1"
+to = "/materiautheque/charme-massif-assemblage-bois-debout-30a-bo1"
+
+[[redirects]]
+from = "/materiautheque/chene-brule-et-feuille-dor-bo189-1"
+to = "/materiautheque/chene-brule-et-feuille-dor-31a-bo1"
+
+[[redirects]]
+from = "/materiautheque/noyer-francais-et-resine-epoxy-bleue-bo272-1"
+to = "/materiautheque/noyer-francais-et-resine-epoxy-bleue-13a-bo1"
+
+[[redirects]]
+from = "/materiautheque/frene-blanc-bo272-2"
+to = "/materiautheque/frene-blanc-13a-bo2"
+
+[[redirects]]
+from = "/materiautheque/iroko-bo272-3"
+to = "/materiautheque/iroko-13a-bo3"
+
+[[redirects]]
+from = "/materiautheque/noyer-francais-bo272-4"
+to = "/materiautheque/noyer-francais-13a-bo4"
+
+[[redirects]]
+from = "/materiautheque/loupe-derable-bo272-5"
+to = "/materiautheque/loupe-derable-13a-bo5"
+
+[[redirects]]
+from = "/materiautheque/chataignier-bo272-6"
+to = "/materiautheque/chataignier-13a-bo6"
+
+[[redirects]]
+from = "/materiautheque/multiligne-pin-bo300-2"
+to = "/materiautheque/multiligne-pin-32a-bo2"
+
+[[redirects]]
+from = "/materiautheque/multiligne-bouleau-bo300-3"
+to = "/materiautheque/multiligne-bouleau-32a-bo3"
+
+[[redirects]]
+from = "/materiautheque/multiligne-peuplier-bo300-4"
+to = "/materiautheque/multiligne-peuplier-32a-bo4"
+
+[[redirects]]
+from = "/materiautheque/peuplier-sculpte-et-brule-bo309-1"
+to = "/materiautheque/peuplier-sculpte-et-brule-33a-bo1"
+
+[[redirects]]
+from = "/materiautheque/sapin-brule-clair-bo309-2"
+to = "/materiautheque/sapin-brule-clair-33a-bo2"
+
+[[redirects]]
+from = "/materiautheque/sapin-brule-fonce-bo309-3"
+to = "/materiautheque/sapin-brule-fonce-33a-bo3"
+
+[[redirects]]
+from = "/materiautheque/frene-brule-moyen-bo309-4"
+to = "/materiautheque/frene-brule-moyen-33a-bo4"
+
+[[redirects]]
+from = "/materiautheque/frene-brule-brosse-bo309-5"
+to = "/materiautheque/frene-brule-brosse-33a-bo5"
+
+[[redirects]]
+from = "/materiautheque/frene-brule-peint-bo309-6"
+to = "/materiautheque/frene-brule-peint-33a-bo6"
+
+[[redirects]]
+from = "/materiautheque/peuplier-brule-clair-bo309-7"
+to = "/materiautheque/peuplier-brule-clair-33a-bo7"
+
+[[redirects]]
+from = "/materiautheque/erable-sycomore-bo46-1"
+to = "/materiautheque/erable-sycomore-19a-bo1"
+
+[[redirects]]
+from = "/materiautheque/erable-sycomore-bo46-2"
+to = "/materiautheque/erable-sycomore-19a-bo2"
+
+[[redirects]]
+from = "/materiautheque/erable-sycomore-bo46-3"
+to = "/materiautheque/erable-sycomore-19a-bo3"
+
+[[redirects]]
+from = "/materiautheque/erable-sycomore-bo46-5"
+to = "/materiautheque/erable-sycomore-19a-bo5"
+
+[[redirects]]
+from = "/materiautheque/erable-sycomore-bo46-6"
+to = "/materiautheque/erable-sycomore-19a-bo6"
+
+[[redirects]]
+from = "/materiautheque/hetre-gouge-bo46-7"
+to = "/materiautheque/hetre-gouge-19a-bo7"
+
+[[redirects]]
+from = "/materiautheque/hetre-gouge-brule-bo46-8"
+to = "/materiautheque/hetre-gouge-brule-19a-bo8"
+
+[[redirects]]
+from = "/materiautheque/valchromat-texture-bo484-1"
+to = "/materiautheque/valchromat-texture-36a-bo1"
+
+[[redirects]]
+from = "/materiautheque/chene-effet-gouge-bo484-2"
+to = "/materiautheque/chene-effet-gouge-36a-bo2"
+
+[[redirects]]
+from = "/materiautheque/chene-effet-gouge-bo484-3"
+to = "/materiautheque/chene-effet-gouge-36a-bo3"
+
+[[redirects]]
+from = "/materiautheque/bois-lasure-bo505-1"
+to = "/materiautheque/bois-lasure-37a-bo1"
+
+[[redirects]]
+from = "/materiautheque/chene-patine-bo505-2"
+to = "/materiautheque/chene-patine-37a-bo2"
+
+[[redirects]]
+from = "/materiautheque/pin-effet-ceruse-bo505-3"
+to = "/materiautheque/pin-effet-ceruse-37a-bo3"
+
+[[redirects]]
+from = "/materiautheque/pin-lasure-bo505-5"
+to = "/materiautheque/pin-lasure-37a-bo5"
+
+[[redirects]]
+from = "/materiautheque/chene-patine-bo505-6"
+to = "/materiautheque/chene-patine-37a-bo6"
+
+[[redirects]]
+from = "/materiautheque/bois-lasure-bo505-7"
+to = "/materiautheque/bois-lasure-37a-bo7"
+
+[[redirects]]
+from = "/materiautheque/sapin-3-plis-lasure-bo505-8"
+to = "/materiautheque/sapin-3-plis-lasure-37a-bo8"
+
+[[redirects]]
+from = "/materiautheque/meleze-tissee-bo518-1"
+to = "/materiautheque/meleze-tissee-11i-bo1"
+
+[[redirects]]
+from = "/materiautheque/meleze-relief-strie-bo518-2"
+to = "/materiautheque/meleze-relief-strie-11i-bo2"
+
+[[redirects]]
+from = "/materiautheque/metallisation-a-froid-effet-bronze-bo518-4"
+to = "/materiautheque/metallisation-a-froid-effet-bronze-11i-bo4"
+
+[[redirects]]
+from = "/materiautheque/metallisation-a-froid-effet-bronze-bo518-5"
+to = "/materiautheque/metallisation-a-froid-effet-bronze-11i-bo5"
+
+[[redirects]]
+from = "/materiautheque/chene-massif-bo577-1"
+to = "/materiautheque/chene-massif-39a-bo1"
+
+[[redirects]]
+from = "/materiautheque/chene-massif-bo577-2"
+to = "/materiautheque/chene-massif-39a-bo2"
+
+[[redirects]]
+from = "/materiautheque/orme-europeen-live-edge-bo577-3"
+to = "/materiautheque/orme-europeen-live-edge-39a-bo3"
+
+[[redirects]]
+from = "/materiautheque/orme-europeen-live-edge-bo577-4"
+to = "/materiautheque/orme-europeen-live-edge-39a-bo4"
+
+[[redirects]]
+from = "/materiautheque/frene-olivier-live-edge-bo577-6"
+to = "/materiautheque/frene-olivier-live-edge-39a-bo6"
+
+[[redirects]]
+from = "/materiautheque/orme-europeen-bo577-10"
+to = "/materiautheque/orme-europeen-39a-bo10"
+
+[[redirects]]
+from = "/materiautheque/orme-europeen-bo577-11"
+to = "/materiautheque/orme-europeen-39a-bo11"
+
+[[redirects]]
+from = "/materiautheque/frene-olivier-live-edge-bo577-12"
+to = "/materiautheque/frene-olivier-live-edge-39a-bo12"
+
+[[redirects]]
+from = "/materiautheque/robinier-et-resine-epoxy-noire-bo579-1"
+to = "/materiautheque/robinier-et-resine-epoxy-noire-40a-bo1"
+
+[[redirects]]
+from = "/materiautheque/chataigner-et-resine-epoxy-transparente-bo579-2"
+to = "/materiautheque/chataigner-et-resine-epoxy-transparente-40a-bo2"
+
+[[redirects]]
+from = "/materiautheque/erable-sycomore-et-resine-epoxy-rouge-doree-bo579-3"
+to = "/materiautheque/erable-sycomore-et-resine-epoxy-rouge-doree-40a-bo3"
+
+[[redirects]]
+from = "/materiautheque/chene-et-resine-epoxy-verte-metallisee-bo579-4"
+to = "/materiautheque/chene-et-resine-epoxy-verte-metallisee-40a-bo4"
+
+[[redirects]]
+from = "/materiautheque/kauri-avec-resine-epoxy-bo637-1"
+to = "/materiautheque/kauri-avec-resine-epoxy-41a-bo1"
+
+[[redirects]]
+from = "/materiautheque/cp-bouleau-texture-bo713-1"
+to = "/materiautheque/cp-bouleau-texture-43a-bo1"
+
+[[redirects]]
+from = "/materiautheque/cedre-yakisugi-avec-dorure-bo95-1"
+to = "/materiautheque/cedre-yakisugi-avec-dorure-27a-bo1"
+
+[[redirects]]
+from = "/materiautheque/cedre-yakisugi-bo95-2"
+to = "/materiautheque/cedre-yakisugi-27a-bo2"
+
+[[redirects]]
+from = "/materiautheque/acier-texture-bruni-me232-1"
+to = "/materiautheque/acier-texture-bruni-9a-me2"
+
+[[redirects]]
+from = "/materiautheque/soie-dinox-me232-2"
+to = "/materiautheque/soie-dinox-9a-me1"
+
+[[redirects]]
+from = "/materiautheque/laiton-me75-5"
+to = "/materiautheque/laiton-22i-me5"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-1"
+to = "/materiautheque/lave-emaillee-7a-pi11"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-2"
+to = "/materiautheque/lave-emaillee-7a-pi2"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-3"
+to = "/materiautheque/lave-emaillee-7a-pi13"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-4"
+to = "/materiautheque/lave-emaillee-7a-pi4"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-5"
+to = "/materiautheque/lave-emaillee-7a-pi5"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-6"
+to = "/materiautheque/lave-emaillee-7a-pi6"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-7"
+to = "/materiautheque/lave-emaillee-7a-pi7"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-8"
+to = "/materiautheque/lave-emaillee-7a-pi8"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-9"
+to = "/materiautheque/lave-emaillee-7a-pi9"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-10"
+to = "/materiautheque/lave-emaillee-7a-pi10"
+
+[[redirects]]
+from = "/materiautheque/lave-rebouchee-pi268-11"
+to = "/materiautheque/lave-rebouchee-7a-pi1"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-12"
+to = "/materiautheque/lave-emaillee-7a-pi12"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-15"
+to = "/materiautheque/lave-emaillee-7a-pi15"
+
+[[redirects]]
+from = "/materiautheque/lave-emaillee-pi268-17"
+to = "/materiautheque/lave-emaillee-7a-pi17"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-1"
+to = "/materiautheque/silicone-4a-po10"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-2"
+to = "/materiautheque/silicone-4a-po2"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-3"
+to = "/materiautheque/silicone-4a-po3"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-4"
+to = "/materiautheque/silicone-4a-po4"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-5"
+to = "/materiautheque/silicone-4a-po5"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-6"
+to = "/materiautheque/elastomere-de-silicone-4a-po1"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-7"
+to = "/materiautheque/silicone-4a-po7"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-8"
+to = "/materiautheque/silicone-4a-po8"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-9"
+to = "/materiautheque/silicone-4a-po9"
+
+[[redirects]]
+from = "/materiautheque/silicone-po191-10"
+to = "/materiautheque/silicone-4a-po11"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-2"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd3"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-3"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd4"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-4"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd5"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-faience-rd560-6"
+to = "/materiautheque/serigraphie-sur-faience-16a-rd8"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-7"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd9"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-8"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd10"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-9"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd11"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-gres-cerame-emaille-rd560-10"
+to = "/materiautheque/serigraphie-sur-gres-cerame-emaille-16a-rd12"
+
+[[redirects]]
+from = "/materiautheque/serigraphie-sur-faience-rd560-12"
+to = "/materiautheque/serigraphie-sur-faience-16a-rd14"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-rd635-1"
+to = "/materiautheque/revetement-decoratif-15a-rd8"
+
+[[redirects]]
+from = "/materiautheque/enduit-decoratif-rd635-2"
+to = "/materiautheque/enduit-decoratif-15a-rd2"
+
+[[redirects]]
+from = "/materiautheque/peinture-decorative-effet-patine-rd635-3"
+to = "/materiautheque/peinture-decorative-effet-patine-15a-rd3"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-feuille-de-cuivre-patinee-rd635-4"
+to = "/materiautheque/revetement-decoratif-feuille-de-cuivre-patinee-15a-rd4"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-effet-beton-rd635-5"
+to = "/materiautheque/revetement-decoratif-effet-beton-15a-rd5"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-patine-rose-pop-rd635-6"
+to = "/materiautheque/revetement-decoratif-patine-rose-pop-15a-rd6"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-imitation-marbre-bleu-rd635-7"
+to = "/materiautheque/revetement-decoratif-imitation-marbre-bleu-15a-rd7"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-imitation-marbre-grand-antique-rd635-8"
+to = "/materiautheque/revetement-decoratif-imitation-marbre-grand-antique-15a-rd1"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-noir-et-paillettes-dorees-rd635-9"
+to = "/materiautheque/revetement-decoratif-noir-et-paillettes-dorees-15a-rd9"
+
+[[redirects]]
+from = "/materiautheque/revetement-decoratif-gris-et-dore-rd635-10"
+to = "/materiautheque/revetement-decoratif-gris-et-dore-15a-rd10"
+
+[[redirects]]
+from = "/materiautheque/patine-claire-shizen-rd73-1"
+to = "/materiautheque/patine-claire-shizen-21a-rd1"
+
+[[redirects]]
+from = "/materiautheque/patine-moyenne-shizen-rd73-2"
+to = "/materiautheque/patine-moyenne-shizen-21a-rd2"
+
+[[redirects]]
+from = "/materiautheque/patine-foncee-shizen-rd73-3"
+to = "/materiautheque/patine-foncee-shizen-21a-rd3"
+
+[[redirects]]
+from = "/materiautheque/enduit-a-la-chaux-rd812-15"
+to = "/materiautheque/enduit-a-la-chaux-47a-rd15"
+
+[[redirects]]
+from = "/materiautheque/pmma-re310-1"
+to = "/materiautheque/pmma-49a-re1"
+
+[[redirects]]
+from = "/materiautheque/solid-surface-texture-re484-1"
+to = "/materiautheque/solid-surface-texture-36a-re1"
+
+[[redirects]]
+from = "/materiautheque/resine-inclusion-de-tubes-re518-3"
+to = "/materiautheque/resine-inclusion-de-tubes-11i-re1"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-4"
+to = "/materiautheque/resine-teintee-21a-re4"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-5"
+to = "/materiautheque/resine-teintee-21a-re5"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-6"
+to = "/materiautheque/resine-teintee-21a-re6"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-7"
+to = "/materiautheque/resine-teintee-21a-re7"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-9"
+to = "/materiautheque/resine-teintee-21a-re9"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-10"
+to = "/materiautheque/resine-teintee-21a-re10"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-12"
+to = "/materiautheque/resine-teintee-21a-re12"
+
+[[redirects]]
+from = "/materiautheque/resine-teintee-re73-13"
+to = "/materiautheque/resine-teintee-21a-re13"
+
+[[redirects]]
+from = "/materiautheque/verre-etire-ve522-1"
+to = "/materiautheque/verre-etire-18a-ve1"
+
+[[redirects]]
+from = "/materiautheque/bouton-de-porte-en-verre-modele-venise-ve522-3"
+to = "/materiautheque/bouton-de-porte-en-verre-modele-carrare-18a-ve2"
+
+[[redirects]]
+from = "/materiautheque/bouton-de-porte-en-verre-modele-venise-ve522-3"
+to = "/materiautheque/bouton-de-porte-en-verre-modele-venise-18a-ve3"
+
+[[redirects]]
+from = "/materiautheque/poignee-de-porte-en-verre-modele-venise-ve522-4"
+to = "/materiautheque/poignee-de-porte-en-verre-modele-venise-18a-ve4"
+
+[[redirects]]
+from = "/materiautheque/verre-ve522-5"
+to = "/materiautheque/verre-18a-ve5"
+
+[[redirects]]
+from = "/materiautheque/verre-ve522-6"
+to = "/materiautheque/verre-18a-ve6"
+
+[[redirects]]
+from = "/materiautheque/verre-ve522-7"
+to = "/materiautheque/verre-18a-ve7"
+
+[[redirects]]
+from = "/materiautheque/verre-ve522-8"
+to = "/materiautheque/verre-18a-ve8"
+
+[[redirects]]
+from = "/materiautheque/maille-de-verre-et-de-cuivre-ve770-1"
+to = "/materiautheque/maille-de-verre-et-de-cuivre-45a-ve1"
+
+[[redirects]]
+from = "/materiautheque/sangles-en-jute-vg100-1"
+to = "/materiautheque/sangles-en-jute-21a-vg3"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-de-seigle-vg340-1"
+to = "/materiautheque/marqueterie-de-paille-de-seigle-12a-vg3"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-de-seigle-vg340-2"
+to = "/materiautheque/marqueterie-de-paille-de-seigle-12a-vg2"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-de-seigle-vg340-3"
+to = "/materiautheque/marqueterie-de-paille-de-seigle-12a-vg1"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-seigle-vg491-1"
+to = "/materiautheque/marqueterie-de-paille-seigle-46a-vg1"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-seigle-vg491-2"
+to = "/materiautheque/marqueterie-de-paille-seigle-46a-vg2"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-seigle-vg491-3"
+to = "/materiautheque/marqueterie-de-paille-seigle-46a-vg3"
+
+[[redirects]]
+from = "/materiautheque/marqueterie-de-paille-vg491-4"
+to = "/materiautheque/marqueterie-de-paille-46a-vg4"
+
+[[redirects]]
+from = "/materiautheque/lamelles-de-bambou-vg546-1"
+to = "/materiautheque/lamelles-de-bambou-38a-vg1"
+
+[[redirects]]
+from = "/materiautheque/lamelles-de-bambou-vg546-2"
+to = "/materiautheque/lamelles-de-bambou-38a-vg2"
+
+[[redirects]]
+from = "/materiautheque/lamelles-de-bambou-vg546-3"
+to = "/materiautheque/lamelles-de-bambou-38a-vg3"
+
+[[redirects]]
+from = "/materiautheque/brin-suivi-en-moelle-de-rotin-vg661-1"
+to = "/materiautheque/brin-suivi-en-moelle-de-rotin-42a-vg1"
+
+[[redirects]]
+from = "/materiautheque/brin-suivi-en-osier-brut-vg661-2"
+to = "/materiautheque/brin-suivi-en-osier-brut-42a-vg2"
+
+[[redirects]]
+from = "/materiautheque/planchette-en-osier-vg661-3"
+to = "/materiautheque/planchette-en-osier-42a-vg3"
+
+[[redirects]]
+from = "/materiautheque/planchette-en-moelle-de-rotin-vg661-4"
+to = "/materiautheque/planchette-en-moelle-de-rotin-42a-vg4"
+
+[[redirects]]
+from = "/materiautheque/crocane-en-osier-ecorce-vg661-5"
+to = "/materiautheque/crocane-en-osier-ecorce-42a-vg5"
+
+[[redirects]]
+from = "/materiautheque/tressage-papier-sur-osier-brut-vg661-6"
+to = "/materiautheque/tressage-papier-sur-osier-brut-42a-vg6"

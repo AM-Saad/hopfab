@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Kepler Std Display;
+  font-weight: 400;
+  font-style: normal;
+  src: url("kepler-std-display-Regular.woff2") format("woff2"),url("kepler-std-display-Regular.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: Kepler Std Display;
+  font-weight: 700;
+  font-style: normal;
+  src: url("kepler-std-display-Bold.woff2") format("woff2"),url("kepler-std-display-Bold.woff") format("woff");
+  font-display: swap;
+}
